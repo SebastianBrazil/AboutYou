@@ -1,0 +1,39 @@
+body {
+    background-color: grey;
+}
+
+.closerTop {
+    margin-top: -10px;
+}
+
+.closerBottom {
+    margin-bottom: -6px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.fontLu {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fontFr {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.colorWh {
+    color: white;
+}
+
+.colorYe {
+    color: yellow;
+}
+
+.colorOr {
+    color: orange;
+}
+
+.colorCr {
+    color: lightcyan;
+}
